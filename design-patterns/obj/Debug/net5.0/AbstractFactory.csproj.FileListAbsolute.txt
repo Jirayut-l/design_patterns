@@ -1,0 +1,16 @@
+C:\MyWork\C#_OOP\design-patterns\design-patterns\bin\Debug\net5.0\AbstractFactory.exe
+C:\MyWork\C#_OOP\design-patterns\design-patterns\bin\Debug\net5.0\AbstractFactory.deps.json
+C:\MyWork\C#_OOP\design-patterns\design-patterns\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+C:\MyWork\C#_OOP\design-patterns\design-patterns\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+C:\MyWork\C#_OOP\design-patterns\design-patterns\bin\Debug\net5.0\AbstractFactory.dll
+C:\MyWork\C#_OOP\design-patterns\design-patterns\bin\Debug\net5.0\ref\AbstractFactory.dll
+C:\MyWork\C#_OOP\design-patterns\design-patterns\bin\Debug\net5.0\AbstractFactory.pdb
+C:\MyWork\C#_OOP\design-patterns\design-patterns\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyWork\C#_OOP\design-patterns\design-patterns\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\MyWork\C#_OOP\design-patterns\design-patterns\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+C:\MyWork\C#_OOP\design-patterns\design-patterns\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\MyWork\C#_OOP\design-patterns\design-patterns\obj\Debug\net5.0\AbstractFactory.dll
+C:\MyWork\C#_OOP\design-patterns\design-patterns\obj\Debug\net5.0\ref\AbstractFactory.dll
+C:\MyWork\C#_OOP\design-patterns\design-patterns\obj\Debug\net5.0\AbstractFactory.pdb
+C:\MyWork\C#_OOP\design-patterns\design-patterns\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
+C:\MyWork\C#_OOP\design-patterns\design-patterns\obj\Debug\net5.0\AbstractFactory.csprojAssemblyReference.cache
