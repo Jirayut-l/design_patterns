@@ -1,6 +1,6 @@
 ﻿namespace design_patterns
 {
-    public interface IAbstractProductA
+    public interface IProductA
     {
         string UsefulFunctionA();
     }

@@ -1,6 +1,6 @@
 ﻿namespace design_patterns
 {
-    public class ConcreteProductA2 : IAbstractProductA
+    public class ConcreteProductA2 : IProductA
     {
         public string UsefulFunctionA()
         {
